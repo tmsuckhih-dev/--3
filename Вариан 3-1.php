@@ -11,5 +11,4 @@ foreach ($users as $user) {
 }
 
 $average = $sum / count($users);
-echo "Средний возраст: " . $average; 
-?>
+echo "Средний возраст: " . $average;
